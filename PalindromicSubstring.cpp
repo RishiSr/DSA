@@ -66,6 +66,6 @@ int main()
         cout << ob.longestPalin (S) << endl;
     }
 }
-// Contributed By: Pranay Bansal
+l
 
 // } Driver Code Ends
